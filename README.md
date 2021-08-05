@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vunerio
+- 👀 I’m interested in web developpement
+- 🌱 I’m currently learning Angular and .NET
+- 💞️ I’m looking to collaborate
+- 📫 My email to reach me : vunerio@gmail.com
